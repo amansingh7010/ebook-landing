@@ -6,8 +6,8 @@
 
 <section class="hero">
 	<div class="hero-showcase text-center bold">
-		<h1 class="purple">MOVE TO</h1>
-		<h1 class="purple mb-xs">SPAIN</h1>
+		<h1 class="red">MOVE TO</h1>
+		<h1 class="red mb-xs">CANADA</h1>
 		<h4 class="italic semi-bold">There's no need to make the same mistakes I made.</h4>
 		<img class="book-cover" src={bookCover} alt="" />
 		<img class="phone-cover" src={phoneCover} alt="" />
@@ -17,7 +17,7 @@
 		<h1>SAVE YOU MONEY,</h1>
 		<h1 class="mb-m">TIME & NERVES</h1>
 		<p class="light-grey mb-l">
-			I moved to Spain seven years ago. The process was painful and difficult. I learned most things
+			I moved to Canada four years ago. The process was painful and difficult. I learned most things
 			the hard way: finding a job, getting a visa, calculating my cost of living, choosing an
 			apartment. That's why I wrote this e-book, to tell you how I did it. No bullshit, no stress.
 		</p>
@@ -38,11 +38,11 @@
 		padding: 100px 16px 0 16px;
 		background: linear-gradient(
 			135deg,
-			#e2cbff,
-			#e2cbff 25%,
-			#deeaff 50%,
-			#ece5ff 75%,
-			#9275be 100%
+			#f9c2c2,
+			#f9c2c2 25%,
+			#f7a1a1 50%,
+			#f4bebe 75%,
+			#c95656 100%
 		);
 	}
 
